@@ -1,0 +1,28 @@
+id: PF5CFABCE
+initial_creation_type: input
+source_metadata:
+  title: Prajñāpāramitā upadeśa (block print), colophon excerpt
+  author: རོང་སྟོན་ཤེས་བྱ་ཀུན་རིག
+  description: 'Digital version 1.0 {Tibetan}, diplomatic edition of witness A; master
+    xml (completed: 2020-05-19); revision in process, thematic TEI markup'
+  source: https://sakyaresearch.org
+  file_info:
+  - 'Language: Tibetan'
+  - 'Coverage: Excerpt/Colophon'
+  - 'Accessible: publicly'
+  responibilities:
+  - Digital edition:ས་སྐྱ་ཞིབ་འཇུག་ཁང་། (src)
+  - Text input:Dan Martin (dm)
+  - Editorial process:-
+  - TEI Encoding:ས་སྐྱ་ཞིབ་འཇུག་ཁང་།
+  - TEI Markup:Mathias Fermer (mf)
+  - Revisions/Corrections:-
+  text_witnesses: https://sakyaresearch.org/sources/1923
+  bases:
+    1a65:
+      title: Prajñāpāramitā upadeśa (block print), colophon excerpt
+      order: 1
+      base_file: 1a65.txt
+created_at: '2022-04-15T18:50:53.898893'
+last_modified_at: '2022-04-15T18:50:53.898900'
+quality: null
